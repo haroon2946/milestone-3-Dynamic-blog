@@ -9,7 +9,7 @@ const AuthoreCard = () => {
     <div className="bg-white mt-12 shadow-lg rounded-lg p-6">
       <div className="flex items-center animate-bounce mt-4">
         <img
-          src="/Images/logo.png" 
+          src="/images/logo.png" 
           alt="Author Image" 
           width={66} 
           height={66} 
